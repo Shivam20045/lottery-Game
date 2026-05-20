@@ -1,0 +1,9 @@
+.ticket{
+    margin-top:20px;
+    border:1px solid pink;
+    border-radius: 14px;
+}
+button{
+    margin: 20px auto;
+    width:100px;
+}
